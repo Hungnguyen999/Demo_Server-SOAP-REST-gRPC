@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/macogala/node-soap-example#readme",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "soap": "^0.19.2"
   }
 }
